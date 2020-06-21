@@ -1,0 +1,10 @@
+bin
+include
+lib
+pyvenv.cfg
+db.sqlite3
+.vscode
+__pycache__
+*.pyc
+.DS_Store
+text
